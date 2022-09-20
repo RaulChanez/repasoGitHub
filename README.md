@@ -20,3 +20,11 @@ __Este texto aparece en cursiva__
 
 + Lista
 + Lista
+
+```html
+<html>
+  <head>
+  </head>
+</html>
+```
+  
