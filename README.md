@@ -30,4 +30,9 @@ __Este texto aparece en cursiva__
 
 [Enlace a wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Portada "Click para ir a la pagina web")
 ![Imagen Wikipedia](https://github.com/RaulChanez/repasoGitHub/blob/main/risa.jpg "Ver Imagen")
-  
+
+| Encabezado 1 | Encabezado 2 | Encabezado 3 |
+| ------------ |:------------ | -----------: |
+| Item 1 | Boligrafos | 20€ |
+| Item 2 | grapadora | 30€ |
+| Item 3 | pinzas | 15€ |  
