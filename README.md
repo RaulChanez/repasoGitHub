@@ -8,3 +8,15 @@ _Este texto aparece en cursiva_
 
 **Este texto aparece en cursiva**
 __Este texto aparece en cursiva__
+
+1. Titulo 1
+2. Titulo 2
+
+* Lista
+* Lista
+
+- Lista
+- Lista
+
++ Lista
++ Lista
