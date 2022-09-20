@@ -29,4 +29,5 @@ __Este texto aparece en cursiva__
 ```
 
 [Enlace a wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Portada "Click para ir a la pagina web")
+![Imagen Wikipedia](https://github.com/RaulChanez/repasoGitHub/blob/main/risa.jpg "Ver Imagen")
   
